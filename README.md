@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name-animation.svg" alt="Jatin Rupeja" />
+  <img src="jatin-rupeja-name-animation.svg" alt="Jatin Rupeja" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jatin Rupeja</h1>
